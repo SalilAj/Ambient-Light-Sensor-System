@@ -38,11 +38,11 @@ Description:
 
 Type: JSON
 
-"-L679Vw7_-79On60YKjt"	-> Unique Key
-"20180224141413"		-> Time Stamp (yyyyMMddHHmmss)
-"lattitude"				-> Lattitude co-ordinates from the GPS
-"longitude"				-> Longitude co-ordinates from the GPS
-"luxValue"				-> Luminosity levels from the light sensor
+"-L679Vw7_-79On60YKjt"	-> Unique Key <br/>
+"20180224141413"		-> Time Stamp (yyyyMMddHHmmss) <br/>
+"lattitude"				-> Lattitude co-ordinates from the GPS <br/>
+"longitude"				-> Longitude co-ordinates from the GPS <br/>
+"luxValue"				-> Luminosity levels from the light sensor <br/>
 
 Relevant Challenges and their Solutions:
 
